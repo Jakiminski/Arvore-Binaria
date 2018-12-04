@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1528662026 source:c:\users\jonas\desktop\this is yggdrasil\main.cpp
+	"header.h"
+
+1528662196 source:c:\users\jonas\desktop\this is yggdrasil\menu.cpp
+	"header.h"
+
+1528656203 c:\users\jonas\desktop\this is yggdrasil\header.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<clocale>
+	"menu.h"
+	"tree.h"
+
+1528662379 c:\users\jonas\desktop\this is yggdrasil\menu.h
+
+1528662508 c:\users\jonas\desktop\this is yggdrasil\tree.h
+
+1529940585 source:f:\cp\this is yggdrasil\main.cpp
+	"header.h"
+
+1529939614 f:\cp\this is yggdrasil\header.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<clocale>
+	"menu.h"
+	"tree.h"
+	"fctn.h"
+
+1529802107 f:\cp\this is yggdrasil\menu.h
+
+1529888583 f:\cp\this is yggdrasil\tree.h
+
+1529803735 source:f:\cp\this is yggdrasil\menu.cpp
+	"header.h"
+
+1529880168 source:f:\cp\this is yggdrasil\tree 1.cpp
+	"header.h"
+
+1529890094 source:f:\cp\this is yggdrasil\tree 2.cpp
+	"header.h"
+
+1529940702 source:f:\cp\this is yggdrasil\tree 3.cpp
+	"header.h"
+
+1529881306 f:\cp\this is yggdrasil\fctn.h
+
+1529938843 source:f:\cp\this is yggdrasil\fctn.cpp
+	"header.h"
+
+1529942443 source:f:\cp\c++\Árvore binária\fctn.cpp
+	"header.h"
+
+1529943214 f:\cp\c++\Árvore binária\header.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<clocale>
+	"menu.h"
+	"tree.h"
+	"fctn.h"
+
+1529805707 f:\cp\c++\Árvore binária\menu.h
+
+1529892183 f:\cp\c++\Árvore binária\tree.h
+
+1529884906 f:\cp\c++\Árvore binária\fctn.h
+
+1529944185 source:f:\cp\c++\Árvore binária\main.cpp
+	"header.h"
+
+1529807335 source:f:\cp\c++\Árvore binária\menu.cpp
+	"header.h"
+
+1540697733 source:f:\cp\c++\Árvore binária\tree 1.cpp
+	"header.h"
+
+1529893694 source:f:\cp\c++\Árvore binária\tree 2.cpp
+	"header.h"
+
+1529944302 source:f:\cp\c++\Árvore binária\tree 3.cpp
+	"header.h"
+
